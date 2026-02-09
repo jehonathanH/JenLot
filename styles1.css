@@ -1,17 +1,16 @@
 body
 {
-  background-color:gray;
+  background:#e3f2fd;
 }
-
 .header{
-  width:90%;
+  width:100%;
   margin:auto;
-  height:120px;
-  line-height:120px
-  background:cyan;
+  height:150px;
+  line-height:150px;
+  background:#2277AA;
   color:white;
 }
-  
+
 h2
 {
   color:white;
@@ -20,22 +19,18 @@ h2
 
 h3
 {
-  color:white;
+  color:black;
   font-family:Comic Sans MS;
 }
 
 p
 {
-  color:white;
+  color:black;
   font-family:Comic Sans MS;
 }
 
 ul
 {
-  color:white;
+  color:black;
   font-family:Comic Sans MS;
-
 }
-
-
-
