@@ -8,8 +8,8 @@ body
   margin:auto;
   height:120px;
   line-height:120px
-  background:#417aa8;
-  color:#fff;;
+  background:blue;
+  color:white;
 }
   
 h2
@@ -36,3 +36,4 @@ ul
   font-family:Comic Sans MS;
 
 }
+
