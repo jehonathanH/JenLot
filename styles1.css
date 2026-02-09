@@ -3,12 +3,12 @@ body
   background-color:gray;
 }
 
-.header{{
+.header{
   width:90%;
   margin:auto;
   height:120px;
   line-height:120px
-  background:blue;
+  background:cyan;
   color:white;
 }
   
@@ -36,5 +36,6 @@ ul
   font-family:Comic Sans MS;
 
 }
+
 
 
